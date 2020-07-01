@@ -36,7 +36,7 @@
 ### the output matrix after 20 turns of the game.
 #### Input:
 ##### 0, 0, 1, 0, 1
-##### 0, 01 0, 0, 1
+##### 0, 0, 1, 0, 0, 1
 ##### 0, 1, 0, 0, 1
 ##### 0, 0, 1, 0, 1
 #### You are expected to print a 2D matrix following the same style after simulating the game for
