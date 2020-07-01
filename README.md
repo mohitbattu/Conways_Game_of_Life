@@ -32,8 +32,7 @@
 ##### these four rules and the state of each cell is updated accordingly. The program loops indefinitely
 ##### applying these rules and changing its state until the player decides to quit.
 
-### Write a python script to take the following 2D matrix (1 – living, 0 – dead) as input and prints
-### the output matrix after 20 turns of the game.
+### Write a python script to take the following 2D matrix (1 – living, 0 – dead) as input and prints the output matrix after 20 turns of the game.
 #### Input:
 ##### 0, 0, 1, 0, 1
 ##### 0, 0, 1, 0, 0, 1
