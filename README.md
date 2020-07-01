@@ -39,5 +39,5 @@
 ##### 0, 01 0, 0, 1
 ##### 0, 1, 0, 0, 1
 ##### 0, 0, 1, 0, 1
-####You are expected to print a 2D matrix following the same style after simulating the game for
-####20 turns.
+#### You are expected to print a 2D matrix following the same style after simulating the game for
+#### 20 turns.
